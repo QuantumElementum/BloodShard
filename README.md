@@ -2,4 +2,4 @@ BloodShard is a retro first-person shooter with a mix of skill-based gameplay an
 
 Development has been going on for a week now and is progressing every day.
 
-To run the game you must have Java JDK 13 or higher.
+To run the game you must have Java JDK 23 or higher.
